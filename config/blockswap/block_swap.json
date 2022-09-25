@@ -1,8 +1,15 @@
 {
-  "retroGen": false,
+  "retroGen": true,
   "swapper": {
-    "dummymodid:dummyblocktoreplace": "dummymodid2:replacer",
-    "dummymodid:dummyblocktoreplace2": "dummymodid2:replacer2",
-    "dummymodid:dummyblocktoreplace3": "dummymodid2:replacer3"
+    "minecraft:coal_ore": "minecraft:stone",
+    "minecraft:iron_ore": "minecraft:andesite",
+    "minecraft:gold_ore": "minecraft:andesite",
+    "minecraft:diamond_ore": "minecraft:lava",
+    "minecraft:redstone_ore": "minecraft:lava",
+    "minecraft:lapis_ore": "minecraft:lava",
+    "minecraft:emerald_ore": "minecraft:andesite",
+    "minecraft:nether_quartz_ore": "minecraft:netherrack",
+    "minecraft:nether_gold_ore": "minecraft:netherrack",
+    "minecraft:ancient_debris": "minecraft:lava"
   }
 }
