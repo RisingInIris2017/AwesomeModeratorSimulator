@@ -35,3 +35,4 @@ config/topography/examples/
 ModWatcher/stage/
 ModWatcher/AwesomeModeratorSim*.zip
 ModWatcher/config.json
+config/OpenTerrainGenerator/Presets/Default/
